@@ -5,10 +5,17 @@
         <meta charset="utf-8">
         <!-- Auto-generate css links here -->
         <css/>
+        <style>
+            h1 {
+                font-size: 32pt;
+                color: blue;
+            }
+        </style>
     </head>
     <body>
         <h1>linker.py demo</h1>
         <p>Hello!</p>
+
         <!-- Auto-generate javascript links here -->
         <javascript/>
     </body>
