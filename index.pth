@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>linker.py demo</title>
+        <meta charset="utf-8">
+        <!-- Auto-generate css links here -->
+        <css/>
+    </head>
+    <body>
+        <h1>linker.py demo</h1>
+        <p>Hello!</p>
+        <!-- Auto-generate javascript links here -->
+        <javascript/>
+    </body>
+</html>
